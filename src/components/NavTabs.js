@@ -9,7 +9,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                 <a className="navbar-brand name-title"
                     href="#home"
                     onClick={() => handlePageChange('Home')}
-                >Your + name</a>
+                >Colin Deery</a>
                 <button className="navbar-toggler " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon "></span>
                 </button>
